@@ -1,0 +1,27 @@
+
+2022-01-25 11:16:37.714559: (-2146959355, 'Server execution failed', None, None)
+2022-01-25 11:51:16.780680: (-2146959355, 'Server execution failed', None, None)
+2022-01-26 12:55:09.045274: 'MainWindow' object has no attribute 'names_list_check'
+2022-01-26 12:55:49.132866: list index out of range
+2022-02-05 14:43:22.507791: Book.caller() must not be called directly. Call through Excel or set a mock caller first with Book.set_mock_caller().
+2022-02-05 14:44:59.549799: caller() takes 1 positional argument but 2 were given
+2022-02-05 14:47:09.775305: Book.caller() must not be called directly. Call through Excel or set a mock caller first with Book.set_mock_caller().
+2022-04-01 23:34:59.051043: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-04-01 23:36:53.314398: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-04-01 23:37:05.781322: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-04-01 23:37:39.526131: 'MainWindow' object has no attribute 'checkBox_2'
+2022-04-01 23:38:55.169757: 'MainWindow' object has no attribute 'checkBox_2'
+2022-04-01 23:47:59.142279: 'MainWindow' object has no attribute 'table'
+2022-04-02 00:12:04.117476: 'NoneType' object has no attribute 'isChecked'
+2022-04-02 00:13:56.155045: division by zero
+2022-04-02 00:23:29.972469: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147352562), None)
+2022-04-02 00:26:29.507830: (-2147352567, 'Exception occurred.', (0, None, None, None, 0, -2147352562), None)
+2022-04-02 00:28:36.118084: list index out of range
+2022-04-02 00:30:15.029643: list index out of range
+2022-04-02 00:51:04.198836: list index out of range
+2022-04-02 00:53:10.230650: list index out of range
+2022-04-02 00:57:35.173123: 'MainWindow' object has no attribute 'export_db'
+2022-04-02 00:58:31.732288: no such table: finished
+2022-04-02 00:59:49.412203: Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+2022-04-03 00:39:26.150713: No engine for filetype: ''
+2022-04-03 01:20:25.406354: No engine for filetype: ''
